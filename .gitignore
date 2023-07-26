@@ -112,3 +112,4 @@ junit.xml
 
 ## ignore venv
 Venv/
+store-sales-time-series-forecasting/
